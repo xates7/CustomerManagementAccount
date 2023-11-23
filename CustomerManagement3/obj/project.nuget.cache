@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "TiLo7EjurWVHK/yqVj8NgLqo27wBMkEmiGea0OcpG1AHXuaGdHb1/4jMN3D4hNK/BrOETQSedZ0EdHy3FuH5yA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\faruk\\OneDrive\\Masaüstü\\CustomerManagement3\\CustomerManagement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\faruk\\.nuget\\packages\\bootstrap\\5.3.2\\bootstrap.5.3.2.nupkg.sha512",
+    "C:\\Users\\faruk\\.nuget\\packages\\microsoft.typescript.msbuild\\5.2.2\\microsoft.typescript.msbuild.5.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}
